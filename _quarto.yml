@@ -3,8 +3,8 @@ project:
   output-dir: docs
 
 website:
-  title: "LiChen Dong"
-  favicon: ./images/avatar.jpg
+  title: "A. Brooke Sasia"
+  favicon: ./images/headshot.jpeg
   navbar:
     left:
       - href: index.qmd
